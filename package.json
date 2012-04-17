@@ -1,0 +1,14 @@
+{
+  "name": "Cadabra",
+  "description": "A NodeJS wrapper for ImageMagick using the mogrify command line program.",
+  "version": "0.0.1",
+  "author": "Fabrice Lejeune <fabrice@epic.net>",  
+  "repository": "git://github.com/fabricelejeune/cadabra.git",
+  "main": "index",
+  "keywords": ["image", "imagemagick", "magick", "mogrify"],
+  "dependencies": {
+    "open-uri": "0.4.1",
+    "temp": "0.4.0"
+  },
+  "engines": { "node": ">= 0.6" }
+}
