@@ -1,5 +1,5 @@
 {
-  "name": "Cadabra",
+  "name": "cadabra",
   "description": "A NodeJS wrapper for ImageMagick using the mogrify command line program.",
   "version": "0.0.1",
   "author": "Fabrice Lejeune <fabrice@epic.net>",  
