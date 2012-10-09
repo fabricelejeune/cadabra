@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/fabricelejeune/cadabra.png)](http://travis-ci.org/fabricelejeune/cadabra)
 # Cadabra
 
 Cadabra is a NodeJS wrapper for ImageMagick using the mogrify command line program. The module is inspired by Ruby's [MiniMagick](https://github.com/probablycorey/mini_magick) library.
