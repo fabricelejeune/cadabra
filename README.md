@@ -19,3 +19,6 @@ cadabra.Image.open("input.jpg", function(err, image) {
   }
 })
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricelejeune/cadabra/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
